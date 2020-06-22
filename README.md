@@ -18,5 +18,7 @@
 ## 參考資料
 1. [Dog API](https://dog.ceo/dog-api/)
 2. [Fetch API example](https://codepen.io/kkoutoup/pen/wjZXPw)
-3. [Select Random Item from an Array](https://css-tricks.com/snippets/javascript/select-random-item-array/)
-4. [CSS字型嵌入方式](https://www.iware.com.tw/qa-CSS字型嵌入方式.html)
+3. [fetch() - Working With Data & APIs in JavaScript](https://www.youtube.com/watch?v=tc8DU14qX6I)
+4. [JSON - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=uxf0--uiX0I)
+5. [Select Random Item from an Array](https://css-tricks.com/snippets/javascript/select-random-item-array/)
+6. [CSS字型嵌入方式](https://www.iware.com.tw/qa-CSS字型嵌入方式.html)
